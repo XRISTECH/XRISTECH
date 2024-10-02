@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i am Miracle Chris-Ibeawuchi a dedicated, focused and creative Website and Mobile App Developer.
+Feel free to go through to my repositories i am open to corrections and suggestions. 
 <!--
 **XRISTECH/XRISTECH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
